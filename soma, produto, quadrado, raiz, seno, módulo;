@@ -3,13 +3,13 @@
 int main()
 {
     
-   //*Fazer um programa em "C" que solicite 2 números e informe:
- //*a) A soma dos números;
- //*b) O produto do primeiro número pelo quadrado do segundo;
- //*c) O quadrado do primeiro número;
- //*d) A raiz quadrada da soma dos quadrados;
- //*e) O seno da diferença do primeiro número pelo segundo;
- //*f) O módulo do primeiro número.
+   //Fazer um programa em "C" que solicite 2 números e informe:
+ //a) A soma dos números;
+ //b) O produto do primeiro número pelo quadrado do segundo;
+ //c) O quadrado do primeiro número;
+ //d) A raiz quadrada da soma dos quadrados;
+ //e) O seno da diferença do primeiro número pelo segundo;
+ //f) O módulo do primeiro número.
  
  
  
@@ -28,12 +28,12 @@ int main()
      s= (n1+n2); 
      m= n1; 
      
-         printf("\n *** soma dos numeros eh: soma ***");
-         printf("\n *** O produto do primeiro numero pelo quadrado do segundo eh: p ***");
-         printf("\n *** O quadrado do primeiro número eh: q ***");
-         printf("\n *** A raiz quadrada da soma dos quadrados eh: r *** ");  
-         printf("\n *** O seno da diferença do primeiro numero pelo segundo eh: s ***");  
-         printf("\n *** O modulo do primeiro numero eh: m ***"); 
+         printf("\n soma dos numeros eh: soma");
+         printf("\n O produto do primeiro numero pelo quadrado do segundo eh: p");
+         printf("\n O quadrado do primeiro número eh: q ")
+         printf("\n A raiz quadrada da soma dos quadrados eh: r ");  
+         printf("\n O seno da diferença do primeiro numero pelo segundo eh: s ");  
+         printf("\n O modulo do primeiro numero eh: m "); 
         
     return 0;
 }
