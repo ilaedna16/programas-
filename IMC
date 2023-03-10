@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <locale.h>
+
+int main()
+{
+    setlocale (LC_ALL, "Portuguese"); 
+    
+    float imc, a, p; 
+    
+    printf ("Informe a sua altura:\n"); 
+    scanf ("%f", &a); 
+    printf ("Informe o seu peso:\n"); 
+    scanf ("%f", &p); 
+    
+    imc= p / (a*a); 
+    printf ("O seu imc é: %.1f", imc); 
+    return 0;
+}
