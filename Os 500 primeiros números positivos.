@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<locale.h> 
-//faça um programa que exibe em ordem crescente, os 500 primeiros números inteiros positivos//
+//faça um programa que exibe em ordem decrescente, os 500 primeiros números inteiros positivos//
 
 int main()
 {
